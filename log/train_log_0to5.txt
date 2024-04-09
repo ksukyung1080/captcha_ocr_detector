@@ -1,0 +1,401 @@
+
+[ EPOCH 1 ]
+[ Train batch 0 ] - loss 7.4821
+[ Train batch 10 ] - loss 5.2713
+[ Train batch 20 ] - loss 3.8820
+[ Validation ] - loss 3.0913 Accuracy: 0.00%
+[ EPOCH 2 ]
+[ Train batch 0 ] - loss 3.3740
+[ Train batch 10 ] - loss 2.8075
+[ Train batch 20 ] - loss 2.6292
+[ Validation ] - loss 2.6976 Accuracy: 0.00%
+[ EPOCH 3 ]
+[ Train batch 0 ] - loss 2.5699
+[ Train batch 10 ] - loss 2.5615
+[ Train batch 20 ] - loss 2.5664
+[ Validation ] - loss 2.6626 Accuracy: 0.00%
+[ EPOCH 4 ]
+[ Train batch 0 ] - loss 2.5500
+[ Train batch 10 ] - loss 2.5592
+[ Train batch 20 ] - loss 2.5649
+[ Validation ] - loss 2.6523 Accuracy: 0.00%
+[ EPOCH 5 ]
+[ Train batch 0 ] - loss 2.5418
+[ Train batch 10 ] - loss 2.5617
+[ Train batch 20 ] - loss 2.5472
+[ Validation ] - loss 2.6455 Accuracy: 0.00%
+[ EPOCH 6 ]
+[ Train batch 0 ] - loss 2.5359
+[ Train batch 10 ] - loss 2.5469
+[ Train batch 20 ] - loss 2.5617
+[ Validation ] - loss 2.6394 Accuracy: 0.00%
+[ EPOCH 7 ]
+[ Train batch 0 ] - loss 2.5215
+[ Train batch 10 ] - loss 2.5529
+[ Train batch 20 ] - loss 2.5512
+[ Validation ] - loss 2.6339 Accuracy: 0.00%
+[ EPOCH 8 ]
+[ Train batch 0 ] - loss 2.5313
+[ Train batch 10 ] - loss 2.5488
+[ Train batch 20 ] - loss 2.5449
+[ Validation ] - loss 2.6276 Accuracy: 0.00%
+[ EPOCH 9 ]
+[ Train batch 0 ] - loss 2.5302
+[ Train batch 10 ] - loss 2.5414
+[ Train batch 20 ] - loss 2.5539
+[ Validation ] - loss 2.6273 Accuracy: 0.00%
+[ EPOCH 10 ]
+[ Train batch 0 ] - loss 2.5357
+[ Train batch 10 ] - loss 2.5532
+[ Train batch 20 ] - loss 2.5508
+[ Validation ] - loss 2.6230 Accuracy: 0.00%
+[ EPOCH 11 ]
+[ Train batch 0 ] - loss 2.5282
+[ Train batch 10 ] - loss 2.5510
+[ Train batch 20 ] - loss 2.5531
+[ Validation ] - loss 2.6164 Accuracy: 0.00%
+[ EPOCH 12 ]
+[ Train batch 0 ] - loss 2.5229
+[ Train batch 10 ] - loss 2.5465
+[ Train batch 20 ] - loss 2.5334
+[ Validation ] - loss 2.6075 Accuracy: 0.00%
+[ EPOCH 13 ]
+[ Train batch 0 ] - loss 2.5232
+[ Train batch 10 ] - loss 2.5366
+[ Train batch 20 ] - loss 2.5343
+[ Validation ] - loss 2.6066 Accuracy: 0.00%
+[ EPOCH 14 ]
+[ Train batch 0 ] - loss 2.5200
+[ Train batch 10 ] - loss 2.5363
+[ Train batch 20 ] - loss 2.5257
+[ Validation ] - loss 2.6026 Accuracy: 0.00%
+[ EPOCH 15 ]
+[ Train batch 0 ] - loss 2.5224
+[ Train batch 10 ] - loss 2.5419
+[ Train batch 20 ] - loss 2.5250
+[ Validation ] - loss 2.5979 Accuracy: 0.00%
+[ EPOCH 16 ]
+[ Train batch 0 ] - loss 2.5188
+[ Train batch 10 ] - loss 2.5382
+[ Train batch 20 ] - loss 2.5219
+[ Validation ] - loss 2.5935 Accuracy: 0.00%
+[ EPOCH 17 ]
+[ Train batch 0 ] - loss 2.5232
+[ Train batch 10 ] - loss 2.5383
+[ Train batch 20 ] - loss 2.5268
+[ Validation ] - loss 2.5892 Accuracy: 0.00%
+[ EPOCH 18 ]
+[ Train batch 0 ] - loss 2.5175
+[ Train batch 10 ] - loss 2.5262
+[ Train batch 20 ] - loss 2.5228
+[ Validation ] - loss 2.5850 Accuracy: 0.00%
+[ EPOCH 19 ]
+[ Train batch 0 ] - loss 2.5092
+[ Train batch 10 ] - loss 2.5246
+[ Train batch 20 ] - loss 2.5187
+[ Validation ] - loss 2.5763 Accuracy: 0.00%
+[ EPOCH 20 ]
+[ Train batch 0 ] - loss 2.5054
+[ Train batch 10 ] - loss 2.5182
+[ Train batch 20 ] - loss 2.5124
+[ Validation ] - loss 2.5651 Accuracy: 0.00%
+[ EPOCH 21 ]
+[ Train batch 0 ] - loss 2.4932
+[ Train batch 10 ] - loss 2.4918
+[ Train batch 20 ] - loss 2.5009
+[ Validation ] - loss 2.5389 Accuracy: 0.00%
+[ EPOCH 22 ]
+[ Train batch 0 ] - loss 2.4625
+[ Train batch 10 ] - loss 2.4658
+[ Train batch 20 ] - loss 2.4654
+[ Validation ] - loss 2.5182 Accuracy: 0.00%
+[ EPOCH 23 ]
+[ Train batch 0 ] - loss 2.4364
+[ Train batch 10 ] - loss 2.4219
+[ Train batch 20 ] - loss 2.4043
+[ Validation ] - loss 2.4430 Accuracy: 0.00%
+[ EPOCH 24 ]
+[ Train batch 0 ] - loss 2.4002
+[ Train batch 10 ] - loss 2.3740
+[ Train batch 20 ] - loss 2.3524
+[ Validation ] - loss 2.4135 Accuracy: 0.00%
+[ EPOCH 25 ]
+[ Train batch 0 ] - loss 2.3438
+[ Train batch 10 ] - loss 2.3012
+[ Train batch 20 ] - loss 2.2926
+[ Validation ] - loss 2.3586 Accuracy: 0.00%
+[ EPOCH 26 ]
+[ Train batch 0 ] - loss 2.3201
+[ Train batch 10 ] - loss 2.2444
+[ Train batch 20 ] - loss 2.2328
+[ Validation ] - loss 2.2818 Accuracy: 0.00%
+[ EPOCH 27 ]
+[ Train batch 0 ] - loss 2.2591
+[ Train batch 10 ] - loss 2.1754
+[ Train batch 20 ] - loss 2.1644
+[ Validation ] - loss 2.2140 Accuracy: 0.00%
+[ EPOCH 28 ]
+[ Train batch 0 ] - loss 2.2058
+[ Train batch 10 ] - loss 2.1245
+[ Train batch 20 ] - loss 2.1132
+[ Validation ] - loss 2.1406 Accuracy: 0.00%
+[ EPOCH 29 ]
+[ Train batch 0 ] - loss 2.1428
+[ Train batch 10 ] - loss 2.0446
+[ Train batch 20 ] - loss 1.9819
+[ Validation ] - loss 2.0621 Accuracy: 0.00%
+[ EPOCH 30 ]
+[ Train batch 0 ] - loss 2.0856
+[ Train batch 10 ] - loss 1.9633
+[ Train batch 20 ] - loss 1.9686
+[ Validation ] - loss 1.9833 Accuracy: 0.00%
+[ EPOCH 31 ]
+[ Train batch 0 ] - loss 2.0029
+[ Train batch 10 ] - loss 1.9140
+[ Train batch 20 ] - loss 1.8394
+[ Validation ] - loss 1.9008 Accuracy: 0.00%
+[ EPOCH 32 ]
+[ Train batch 0 ] - loss 1.9745
+[ Train batch 10 ] - loss 1.8508
+[ Train batch 20 ] - loss 1.7767
+[ Validation ] - loss 1.8509 Accuracy: 0.00%
+[ EPOCH 33 ]
+[ Train batch 0 ] - loss 1.8715
+[ Train batch 10 ] - loss 1.7963
+[ Train batch 20 ] - loss 1.7435
+[ Validation ] - loss 1.8255 Accuracy: 0.00%
+[ EPOCH 34 ]
+[ Train batch 0 ] - loss 1.8656
+[ Train batch 10 ] - loss 1.7549
+[ Train batch 20 ] - loss 1.6279
+[ Validation ] - loss 1.7375 Accuracy: 0.00%
+[ EPOCH 35 ]
+[ Train batch 0 ] - loss 1.7849
+[ Train batch 10 ] - loss 1.6757
+[ Train batch 20 ] - loss 1.5762
+[ Validation ] - loss 1.7271 Accuracy: 0.00%
+[ EPOCH 36 ]
+[ Train batch 0 ] - loss 1.7310
+[ Train batch 10 ] - loss 1.6553
+[ Train batch 20 ] - loss 1.4675
+[ Validation ] - loss 1.6175 Accuracy: 0.00%
+[ EPOCH 37 ]
+[ Train batch 0 ] - loss 1.6497
+[ Train batch 10 ] - loss 1.5551
+[ Train batch 20 ] - loss 1.4460
+[ Validation ] - loss 1.5308 Accuracy: 0.00%
+[ EPOCH 38 ]
+[ Train batch 0 ] - loss 1.5924
+[ Train batch 10 ] - loss 1.5140
+[ Train batch 20 ] - loss 1.3666
+[ Validation ] - loss 1.4211 Accuracy: 0.00%
+[ EPOCH 39 ]
+[ Train batch 0 ] - loss 1.5464
+[ Train batch 10 ] - loss 1.4321
+[ Train batch 20 ] - loss 1.2767
+[ Validation ] - loss 1.3268 Accuracy: 0.00%
+[ EPOCH 40 ]
+[ Train batch 0 ] - loss 1.4649
+[ Train batch 10 ] - loss 1.3780
+[ Train batch 20 ] - loss 1.1954
+[ Validation ] - loss 1.2213 Accuracy: 0.00%
+[ EPOCH 41 ]
+[ Train batch 0 ] - loss 1.4118
+[ Train batch 10 ] - loss 1.2544
+[ Train batch 20 ] - loss 1.1089
+[ Validation ] - loss 1.1086 Accuracy: 0.00%
+[ EPOCH 42 ]
+[ Train batch 0 ] - loss 1.3044
+[ Train batch 10 ] - loss 1.1853
+[ Train batch 20 ] - loss 1.0554
+[ Validation ] - loss 0.9908 Accuracy: 2.04%
+[ EPOCH 43 ]
+[ Train batch 0 ] - loss 1.1222
+[ Train batch 10 ] - loss 1.0463
+[ Train batch 20 ] - loss 0.9625
+[ Validation ] - loss 0.8863 Accuracy: 3.06%
+[ EPOCH 44 ]
+[ Train batch 0 ] - loss 1.1149
+[ Train batch 10 ] - loss 1.0251
+[ Train batch 20 ] - loss 0.8780
+[ Validation ] - loss 0.7593 Accuracy: 14.29%
+[ EPOCH 45 ]
+[ Train batch 0 ] - loss 1.0980
+[ Train batch 10 ] - loss 0.9056
+[ Train batch 20 ] - loss 0.7929
+[ Validation ] - loss 0.6785 Accuracy: 36.73%
+[ EPOCH 46 ]
+[ Train batch 0 ] - loss 0.8782
+[ Train batch 10 ] - loss 0.8240
+[ Train batch 20 ] - loss 0.6712
+[ Validation ] - loss 0.5679 Accuracy: 54.08%
+[ EPOCH 47 ]
+[ Train batch 0 ] - loss 0.8003
+[ Train batch 10 ] - loss 0.6892
+[ Train batch 20 ] - loss 0.6969
+[ Validation ] - loss 0.4633 Accuracy: 68.37%
+[ EPOCH 48 ]
+[ Train batch 0 ] - loss 0.7345
+[ Train batch 10 ] - loss 0.5793
+[ Train batch 20 ] - loss 0.6853
+[ Validation ] - loss 0.4007 Accuracy: 75.51%
+[ EPOCH 49 ]
+[ Train batch 0 ] - loss 0.7079
+[ Train batch 10 ] - loss 0.5615
+[ Train batch 20 ] - loss 0.5093
+[ Validation ] - loss 0.3242 Accuracy: 85.71%
+[ EPOCH 50 ]
+[ Train batch 0 ] - loss 0.6087
+[ Train batch 10 ] - loss 0.4257
+[ Train batch 20 ] - loss 0.4698
+[ Validation ] - loss 0.3029 Accuracy: 81.63%
+[ EPOCH 51 ]
+[ Train batch 0 ] - loss 0.5451
+[ Train batch 10 ] - loss 0.4531
+[ Train batch 20 ] - loss 0.4198
+[ Validation ] - loss 0.2442 Accuracy: 85.71%
+[ EPOCH 52 ]
+[ Train batch 0 ] - loss 0.5027
+[ Train batch 10 ] - loss 0.3636
+[ Train batch 20 ] - loss 0.4071
+[ Validation ] - loss 0.2131 Accuracy: 89.80%
+[ EPOCH 53 ]
+[ Train batch 0 ] - loss 0.5523
+[ Train batch 10 ] - loss 0.3631
+[ Train batch 20 ] - loss 0.4281
+[ Validation ] - loss 0.1832 Accuracy: 90.82%
+[ EPOCH 54 ]
+[ Train batch 0 ] - loss 0.5172
+[ Train batch 10 ] - loss 0.3350
+[ Train batch 20 ] - loss 0.3704
+[ Validation ] - loss 0.1727 Accuracy: 89.80%
+[ EPOCH 55 ]
+[ Train batch 0 ] - loss 0.3380
+[ Train batch 10 ] - loss 0.2571
+[ Train batch 20 ] - loss 0.3451
+[ Validation ] - loss 0.1469 Accuracy: 91.84%
+[ EPOCH 56 ]
+[ Train batch 0 ] - loss 0.4297
+[ Train batch 10 ] - loss 0.2884
+[ Train batch 20 ] - loss 0.2758
+[ Validation ] - loss 0.1252 Accuracy: 91.84%
+[ EPOCH 57 ]
+[ Train batch 0 ] - loss 0.2580
+[ Train batch 10 ] - loss 0.2885
+[ Train batch 20 ] - loss 0.3672
+[ Validation ] - loss 0.1122 Accuracy: 94.90%
+[ EPOCH 58 ]
+[ Train batch 0 ] - loss 0.3293
+[ Train batch 10 ] - loss 0.1741
+[ Train batch 20 ] - loss 0.2516
+[ Validation ] - loss 0.1025 Accuracy: 95.92%
+[ EPOCH 59 ]
+[ Train batch 0 ] - loss 0.2984
+[ Train batch 10 ] - loss 0.1767
+[ Train batch 20 ] - loss 0.2220
+[ Validation ] - loss 0.0924 Accuracy: 93.88%
+[ EPOCH 60 ]
+[ Train batch 0 ] - loss 0.2502
+[ Train batch 10 ] - loss 0.1951
+[ Train batch 20 ] - loss 0.2732
+[ Validation ] - loss 0.0805 Accuracy: 93.88%
+[ EPOCH 61 ]
+[ Train batch 0 ] - loss 0.2344
+[ Train batch 10 ] - loss 0.1532
+[ Train batch 20 ] - loss 0.2802
+[ Validation ] - loss 0.0784 Accuracy: 95.92%
+[ EPOCH 62 ]
+[ Train batch 0 ] - loss 0.2200
+[ Train batch 10 ] - loss 0.1390
+[ Train batch 20 ] - loss 0.1749
+[ Validation ] - loss 0.0591 Accuracy: 94.90%
+[ EPOCH 63 ]
+[ Train batch 0 ] - loss 0.1472
+[ Train batch 10 ] - loss 0.1006
+[ Train batch 20 ] - loss 0.1733
+[ Validation ] - loss 0.0595 Accuracy: 94.90%
+[ EPOCH 64 ]
+[ Train batch 0 ] - loss 0.1879
+[ Train batch 10 ] - loss 0.1281
+[ Train batch 20 ] - loss 0.1669
+[ Validation ] - loss 0.0553 Accuracy: 95.92%
+[ EPOCH 65 ]
+[ Train batch 0 ] - loss 0.1725
+[ Train batch 10 ] - loss 0.1348
+[ Train batch 20 ] - loss 0.2021
+[ Validation ] - loss 0.0460 Accuracy: 96.94%
+[ EPOCH 66 ]
+[ Train batch 0 ] - loss 0.1842
+[ Train batch 10 ] - loss 0.1542
+[ Train batch 20 ] - loss 0.1353
+[ Validation ] - loss 0.0529 Accuracy: 96.94%
+[ EPOCH 67 ]
+[ Train batch 0 ] - loss 0.2463
+[ Train batch 10 ] - loss 0.1230
+[ Train batch 20 ] - loss 0.1435
+[ Validation ] - loss 0.0489 Accuracy: 94.90%
+[ EPOCH 68 ]
+[ Train batch 0 ] - loss 0.2078
+[ Train batch 10 ] - loss 0.1202
+[ Train batch 20 ] - loss 0.1705
+[ Validation ] - loss 0.0513 Accuracy: 94.90%
+[ EPOCH 69 ]
+[ Train batch 0 ] - loss 0.1124
+[ Train batch 10 ] - loss 0.1066
+[ Train batch 20 ] - loss 0.1900
+[ Validation ] - loss 0.0370 Accuracy: 96.94%
+[ EPOCH 70 ]
+[ Train batch 0 ] - loss 0.1201
+[ Train batch 10 ] - loss 0.1088
+[ Train batch 20 ] - loss 0.1935
+[ Validation ] - loss 0.0500 Accuracy: 93.88%
+[ EPOCH 71 ]
+[ Train batch 0 ] - loss 0.1614
+[ Train batch 10 ] - loss 0.1310
+[ Train batch 20 ] - loss 0.1114
+[ Validation ] - loss 0.0546 Accuracy: 95.92%
+[ EPOCH 72 ]
+[ Train batch 0 ] - loss 0.2140
+[ Train batch 10 ] - loss 0.1112
+[ Train batch 20 ] - loss 0.1129
+[ Validation ] - loss 0.0431 Accuracy: 95.92%
+[ EPOCH 73 ]
+[ Train batch 0 ] - loss 0.1740
+[ Train batch 10 ] - loss 0.0660
+[ Train batch 20 ] - loss 0.0873
+[ Validation ] - loss 0.0339 Accuracy: 97.96%
+[ EPOCH 74 ]
+[ Train batch 0 ] - loss 0.1168
+[ Train batch 10 ] - loss 0.0677
+[ Train batch 20 ] - loss 0.1563
+[ Validation ] - loss 0.0268 Accuracy: 97.96%
+[ EPOCH 75 ]
+[ Train batch 0 ] - loss 0.1199
+[ Train batch 10 ] - loss 0.0971
+[ Train batch 20 ] - loss 0.0715
+[ Validation ] - loss 0.0309 Accuracy: 97.96%
+[ EPOCH 76 ]
+[ Train batch 0 ] - loss 0.0754
+[ Train batch 10 ] - loss 0.1069
+[ Train batch 20 ] - loss 0.1153
+[ Validation ] - loss 0.0315 Accuracy: 97.96%
+[ EPOCH 77 ]
+[ Train batch 0 ] - loss 0.2205
+[ Train batch 10 ] - loss 0.0634
+[ Train batch 20 ] - loss 0.1457
+[ Validation ] - loss 0.0364 Accuracy: 96.94%
+[ EPOCH 78 ]
+[ Train batch 0 ] - loss 0.0927
+[ Train batch 10 ] - loss 0.0808
+[ Train batch 20 ] - loss 0.1173
+[ Validation ] - loss 0.0390 Accuracy: 95.92%
+[ EPOCH 79 ]
+[ Train batch 0 ] - loss 0.1149
+[ Train batch 10 ] - loss 0.1155
+[ Train batch 20 ] - loss 0.0867
+[ Validation ] - loss 0.0204 Accuracy: 98.98%
+[ EPOCH 80 ]
+[ Train batch 0 ] - loss 0.1672
+[ Train batch 10 ] - loss 0.0474
+[ Train batch 20 ] - loss 0.1087
+[ Validation ] - loss 0.0303 Accuracy: 96.94%
